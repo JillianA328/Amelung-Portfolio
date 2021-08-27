@@ -14,6 +14,19 @@ code {
 
 
 #about {
-  background-color: aquamarine;
+  background-color: #533154;
   font-size: x-large;
+}
+
+#img1 {
+  background-blend-mode: color;
+}
+
+header {
+  background-color: rgb(154,243,255);
+}
+
+#navbar-nav {
+  background-color: #3AC17E;
+  
 }

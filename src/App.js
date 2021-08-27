@@ -1,13 +1,14 @@
 import React from "react";
 import About from "./components/About";
 // import Contact from "./components/Contact";
-// import Navbar from "./components/Nav";
+import Nav from "./components/Nav";
 // import Projects from "./components/Projects";
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
     <main>
-      {/* <Nav /> */}
+      <Nav />
       <About />
       {/* <Projects />
       <Contact /> */}

@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+* {
+  background-color: #93858B;
+}
+
 
 #about {
   /* background-color: #533154; */
@@ -20,16 +24,12 @@ code {
 
 
 header {
-  background-color: rgb(154,243,255);
+  background-color: #929B8D;
 }
 
-#navbar-nav {
-  background-color: #3AC17E;
-  
-}
 
 .navbar {
-  background-color: rgb(86,30,76);
+  background-color: #93858B;
 }
 
 .navlink {

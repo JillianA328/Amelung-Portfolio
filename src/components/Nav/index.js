@@ -21,6 +21,11 @@ export default function Navbar(props) {
         <a class="nav-link" href="#Projects" onClick={() => {props.setCurrentPage("Projects")}}>Projects <span class="sr-only"> </span></a>
       </li>
 
+      
+      <li class="nav-item">
+        <a class="nav-link" href="#Resume" onClick={() => {props.setCurrentPage("Resume")}}>Resume <span class="sr-only"> </span></a>
+      </li>
+
       <li class="nav-item">
         <a class="nav-link" href="#Contact"  onClick={() => {props.setCurrentPage("Contact")}}>Contact</a>
         <link to={"./Contact"}></link>

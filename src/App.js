@@ -4,7 +4,9 @@ import Hero from "./components/Hero";
 import Contact from "./components/Contact";
 import Nav from "./components/Nav";
 import Projects from "./components/Projects";
-import 'bootstrap/dist/css/bootstrap.min.css'
+import Resume from "./components/Resume";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
 const [currentPage, setCurrentPage] = useState("About")
@@ -19,8 +21,8 @@ const [currentPage, setCurrentPage] = useState("About")
     }else if(currentPage === "Projects") {
       return <Projects />;
 
-    // }else if(currentPage === "Resume") {
-    //   return <Resume />
+    }else if(currentPage === "Resume") {
+      return <Resume />
     }
   }
 

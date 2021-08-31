@@ -4,7 +4,10 @@ import projects from "../project.json"
 
 export default function Projects (props) {
   return (
-    <section id="project">
+    <section class="container">
+    <h2 className="top-title">Projects</h2>
+    <hr></hr>
+    
     <div>
       <div>
         {projects.map((project) => (

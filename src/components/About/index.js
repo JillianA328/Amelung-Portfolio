@@ -3,7 +3,9 @@ import img2 from '../../images/selfie.jpg'
 
 export default function About() {
   return (
-    <section id="About">
+    <section class="container">
+    <h2 className="top-title">About Me</h2>
+    <hr></hr>
       
       <div class="d-flex p-3 bd-highlight">
     

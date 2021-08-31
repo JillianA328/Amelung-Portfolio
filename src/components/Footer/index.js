@@ -1,9 +1,8 @@
   
 import React from 'react';
-// import { AiFillLinkedin } from 'react-icons/fa';
 import { AiFillGithub, AiFillGoogleCircle, AiFillLinkedin } from 'react-icons/ai';
 
-function Footer() {
+export default function Footer () {
     return (
 
         <footer class="text-center text-lg-start bg-light text-muted">
@@ -23,5 +22,3 @@ function Footer() {
         </footer>
     )
 }
-
-export default Footer;

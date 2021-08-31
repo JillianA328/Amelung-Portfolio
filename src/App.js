@@ -1,23 +1,23 @@
 import React, {useState} from "react";
-
 import About from "./components/About";
 import Hero from "./components/Hero";
 import Contact from "./components/Contact";
 import Nav from "./components/Nav";
-// import Projects from "./components/Projects";
+import Projects from "./components/Projects";
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
-
-  // const currentPage = "Contact";
-
-  const [currentPage, setCurrentPage] = useState("About")
+const [currentPage, setCurrentPage] = useState("About")
 
   function renderPage() {
-    if(currentPage == "About") {
+    if(currentPage === "About") {
       return <About />;
-    } else  if(currentPage == "Contact") {
+
+    } else  if(currentPage === "Contact") {
       return <Contact />;
+
+    }else if(currentPage === "Projects") {
+      return <Projects />;
     }
   }
 

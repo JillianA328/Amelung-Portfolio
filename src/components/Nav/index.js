@@ -10,7 +10,7 @@ export default function Navbar(props) {
   </button>
 
   <div class="collapse navbar-collapse" id="navbarNav">
-      <h1>Jillian Amelung</h1>
+      <h1 class="name">Jillian Amelung</h1>
 
     <ul class="navbar-nav">
       <li class="nav-item active">

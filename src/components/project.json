@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Florida Springs",
+        "image": "https://media.istockphoto.com/photos/florida-springs-picture-id945373530?k=6&m=945373530&s=170667a&w=0&h=7lspYoGSdY2nFN1-A99WQQecu3A5pL4d6MgLkTaykiE=",
+        "github": "https://github.com/JillianA328/floridasprings",
+        "link": "https://floridasprings.herokuapp.com/"
+    },
+
+    {
+        "id": 2,
+        "name": "What I had for Dinner",
+        "image": ".https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/people-eating-in-a-restaurant-laughing-michal-bednarek.jpg",
+        "github": "https://github.com/JillianA328/whatihadfordinner",
+        "link": "https://whatihadfordinner.herokuapp.com/"
+    },
+    
+    {
+        "id": 3,
+        "name": "What's for Dinner",
+        "image": "https://www.tokkoro.com/picsup/3071454-barbecue_bbq_chicken_dinner_dish_food_grilled_lunch_meal_meat_plate_royalty-free-images.jpg",
+        "github": "https://github.com/JillianA328/whats-for-dinner",
+        "link": "https://jilliana328.github.io/whats-for-dinner/"
+    }
+]

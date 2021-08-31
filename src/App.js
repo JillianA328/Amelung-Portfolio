@@ -18,6 +18,9 @@ const [currentPage, setCurrentPage] = useState("About")
 
     }else if(currentPage === "Projects") {
       return <Projects />;
+
+    // }else if(currentPage === "Resume") {
+    //   return <Resume />
     }
   }
 
@@ -27,6 +30,7 @@ const [currentPage, setCurrentPage] = useState("About")
       <Hero />
 
       {renderPage()}
+      <footer></footer>
     </main>
   );
 }

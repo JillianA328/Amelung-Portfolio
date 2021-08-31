@@ -1,25 +1,10 @@
 import React from "react";
-import projects from "../../project.json";
+import projects from "../project.json"
 
-export const projects = [
-    {
-        "id": 1,
-        "name": "Florida Springs",
-        "image": "../../images/florida",
-        "github": "https://github.com/JillianA328/floridasprings"
-    },
 
-    {
-        "id": 2,
-        "name": "Florida Springs",
-        "image": "../../images/florida",
-        "github": "https://github.com/JillianA328/floridasprings"
-    },
-];
-
-export default function Project () {
+export default function Projects (props) {
   return (
-    <section id="projects">
+    <section id="project">
     <div>
       <div>
         {projects.map((project) => (
@@ -29,8 +14,7 @@ export default function Project () {
             >
             <div>
               <img
-                alt="project-images"
-    
+                alt={project.title}
                 src={project.image}
               />
               <div>

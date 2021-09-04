@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import About from "./components/About";
 import Header from "./components/Header";
 import Contact from "./components/Contact";
@@ -12,19 +12,19 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
-const [currentPage, setCurrentPage] = useState("About")
+  const [currentPage, setCurrentPage] = useState("About")
 
   function renderPage() {
-    if(currentPage === "About") {
+    if (currentPage === "About") {
       return <About />;
 
-    } else  if(currentPage === "Contact") {
+    } else if (currentPage === "Contact") {
       return <Contact />;
 
-    }else if(currentPage === "Projects") {
+    } else if (currentPage === "Projects") {
       return <Projects />;
 
-    }else if(currentPage === "Resume") {
+    } else if (currentPage === "Resume") {
       return <Resume />
     }
   }

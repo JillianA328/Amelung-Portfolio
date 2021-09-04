@@ -14,7 +14,7 @@ export default function About() {
           
 
           <p className="bio mb-8 leading-relaxed">
-          Full Stack Developer currently living in Florida.  I graduated from the Rutgers Coding Bootcamp in September 2021. I graduated from the Rutgers Coding Bootcamp in September 2021. 
+          Junior Full Stack Developer currently living in Florida.  I graduated from the Rutgers Coding Bootcamp in September 2021. I graduated from the Rutgers Coding Bootcamp in September 2021. 
           Skills learned in bootcamp are: HTML, CSS, JavaScript, MongoDB, Insomnia, MySQL, NoSQL, React, Progressive Web Applications, MERN, MVC, ORM, Express, OOP, Node.js, 
           Server-side APIs, Third-Party APIs, Web APIs, etc.
           </p>

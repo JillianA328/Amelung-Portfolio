@@ -1,8 +1,8 @@
-  
+
 import React from 'react';
 import { AiFillGithub, AiFillGoogleCircle, AiFillLinkedin } from 'react-icons/ai';
 
-export default function Footer () {
+function Footer() {
     return (
 
         <footer class="text-center text-lg-start bg-light text-muted">
@@ -11,10 +11,10 @@ export default function Footer () {
                     <a href="mailto:jpamelung@gmail.com" class="me-4 text-reset fs-1">
                         <AiFillGoogleCircle />
                     </a>
-                    <a href="https://www.linkedin.com/in/jillian-amelung-464a6824" class="me-4 text-reset fs-1">
+                    <a href="https://www.linkedin.com/in/jillian-amelung-464a6824/" class="me-4 text-reset fs-1">
                         <AiFillLinkedin />
                     </a>
-                    <a href="https://github.com/jillianA328" class="me-4 text-reset fs-1">
+                    <a href="https://github.com/JillianA328" class="me-4 text-reset fs-1">
                         <AiFillGithub />
                     </a>
                 </div>
@@ -22,3 +22,5 @@ export default function Footer () {
         </footer>
     )
 }
+
+export default Footer;

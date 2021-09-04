@@ -1,9 +1,11 @@
-.name {
-    padding: 10px;
-    color: red;
+h1 {
+    color:#552A92;
+    font-size: x-large;
+    word-spacing: 2px;
+    margin:30px;
 }
 
-.navbar {
-    background-color: #93858B;
-  }
-  
+.navbar-nav {
+    margin-left: 1000px;
+    font-size: 25px;
+}

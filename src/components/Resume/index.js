@@ -1,28 +1,26 @@
 import React from "react";
+import './style.css';
 
 export default function Resume() {
-    return (
-      <section class="container">
-        <h2 className="top-title">Resume</h2>
-        <hr></hr>
-  
-        <div>
-          <div class="mt-5">
-            <h2 className="top-title">
-                Junior Full Stack Web Developer
-            </h2>
-        
+  return (
+    <section class="container">
+      <h2 className="top-title">Resume</h2>
+      <hr></hr>
+
+      <div>
+        <div class="mt-5">
+          <h2 className="top-title">
+            Junior Full Stack Web Developer
+          </h2>
+<div class="btn">
+          <a href="https://github.com/JillianA328/resume/blob/main/Resume-2020.pdf">
+            <button>Click here to view my resume!</button>
             
-  
-            <a
-              href="https://github.com/JillianA328/resume/blob/main/Resume-2020.pdf"
-              class="link"
-            >
-              Click here to view my resume!
-            </a>
+          </a>
           </div>
         </div>
-  
-      </section>
-    )
+      </div>
+
+    </section>
+  )
 };

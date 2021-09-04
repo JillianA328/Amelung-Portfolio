@@ -1,0 +1,16 @@
+
+.image {
+  height: 5%;
+  width: 20%;
+  position:relative;
+  border: 1px solid black;
+  padding: 1px;
+  border-radius: 200%;
+}
+
+h2 {
+  text-align: center;
+  border-top: black;
+  color: #552A92;
+}
+

@@ -1,11 +1,23 @@
-h1 {
+ h1 {
     color:#552A92;
     font-size: x-large;
     word-spacing: 2px;
     margin:30px;
+    padding-top: 15px;
+} 
+
+
+ul#menu li a:hover{
+    color: #552A92;
+    text-decoration: none;
+} 
+a {
+    color:#552A92;
+    font-size: 20px;
+    font-weight: bold;
 }
 
-.navbar-nav {
-    margin-left: 1000px;
-    font-size: 25px;
+.nav-link {
+    color: #552A92;
 }
+

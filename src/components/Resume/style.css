@@ -4,8 +4,14 @@ button {
     background-color: #552A92;
     color: #A0ADB4;
     font-style: bold;
+    
 }
 
 .btn {
-    background-color: red;
+ padding-right: 200px;
 }
+
+.btn {
+    padding-left: 37%;
+
+  }

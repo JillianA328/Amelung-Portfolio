@@ -1,12 +1,12 @@
-
 import React from 'react';
 import { AiFillGithub, AiFillGoogleCircle, AiFillLinkedin } from 'react-icons/ai';
+
 
 function Footer() {
     return (
 
         <footer class="text-center text-lg-start bg-light text-muted">
-            <section class="d-flex justify-content-center  p-4 border-bottom">
+            <section class="d-flex justify-content-center  p-4 ">
                 <div>
                     <a href="mailto:jpamelung@gmail.com" class="me-4 text-reset fs-1">
                         <AiFillGoogleCircle />

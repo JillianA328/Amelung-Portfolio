@@ -1,9 +1,28 @@
-div.card {
+/* div.card {
     margin: 10px 25px 10px 25px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+} */
+
+.card-parent {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* width: 400px; */
 }
+
+
+.project-card {
+    width: 29%; 
+    /* background-color: rgb(160,173,180); */
+    margin: 10px 25px 10px 25px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 2px solid black;
+}
+
 
 .btn {
     background: black;
@@ -19,4 +38,16 @@ div.card {
     color: #552A92;
     padding-left: 25px;
     font-weight: bolder;
+}
+
+
+
+
+@media screen and (max-width: 900px) {
+    .project-card {
+        /* background-color: red !important; */
+    border: 2px solid black;
+    width: 50%; 
+
+    }
 }

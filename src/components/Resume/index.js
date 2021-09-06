@@ -8,7 +8,7 @@ export default function Resume() {
       <hr></hr>
 
       <div>
-        <div class="p-6">
+        <div class="p-6 btn-parent">
           <h2 className="top-title">
             Junior Full Stack Web Developer
           </h2>

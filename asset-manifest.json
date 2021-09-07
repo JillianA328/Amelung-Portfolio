@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Amelung-Portfolio/static/css/main.169e9f02.chunk.css",
+    "main.js": "/Amelung-Portfolio/static/js/main.b6db1a9d.chunk.js",
+    "main.js.map": "/Amelung-Portfolio/static/js/main.b6db1a9d.chunk.js.map",
+    "runtime-main.js": "/Amelung-Portfolio/static/js/runtime-main.b611458b.js",
+    "runtime-main.js.map": "/Amelung-Portfolio/static/js/runtime-main.b611458b.js.map",
+    "static/css/2.818011ed.chunk.css": "/Amelung-Portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.d6a33290.chunk.js": "/Amelung-Portfolio/static/js/2.d6a33290.chunk.js",
+    "static/js/2.d6a33290.chunk.js.map": "/Amelung-Portfolio/static/js/2.d6a33290.chunk.js.map",
+    "static/js/3.44f9684d.chunk.js": "/Amelung-Portfolio/static/js/3.44f9684d.chunk.js",
+    "static/js/3.44f9684d.chunk.js.map": "/Amelung-Portfolio/static/js/3.44f9684d.chunk.js.map",
+    "index.html": "/Amelung-Portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Amelung-Portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.169e9f02.chunk.css.map": "/Amelung-Portfolio/static/css/main.169e9f02.chunk.css.map",
+    "static/js/2.d6a33290.chunk.js.LICENSE.txt": "/Amelung-Portfolio/static/js/2.d6a33290.chunk.js.LICENSE.txt",
+    "static/media/hero1.2b6cd33f.jpg": "/Amelung-Portfolio/static/media/hero1.2b6cd33f.jpg",
+    "static/media/selfie.f5432802.jpg": "/Amelung-Portfolio/static/media/selfie.f5432802.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b611458b.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.d6a33290.chunk.js",
+    "static/css/main.169e9f02.chunk.css",
+    "static/js/main.b6db1a9d.chunk.js"
+  ]
+}

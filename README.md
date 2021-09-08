@@ -7,7 +7,7 @@ React portfolio for Jillian Amelung
 ![screenshot4](https://user-images.githubusercontent.com/81400805/132154688-3138121e-e1ce-4c9f-a2bc-7de91d876b0b.PNG)
 
 # Deployed Site
-Click here to view my portfolio: https://jilliana328.github.io/react-portfolio/
+Click here to view my portfolio: https://jilliana328.github.io/Amelung-Portfolio/
 
 # Contributers:
 Made by Jillian Amelung. Worked on with MaryKate Smith.
